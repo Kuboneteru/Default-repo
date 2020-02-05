@@ -1,0 +1,5 @@
+Ansible
+Zabbix
+Linux
+python
+ubuntu
