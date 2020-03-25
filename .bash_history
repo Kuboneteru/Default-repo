@@ -55,3 +55,18 @@ git push origin test
 git branch --all
 git remote -v
 exit
+git config --global user.name Kuboneteru
+git config --global user.email kubo@sra.co.jp
+git config --global --list 
+git init
+git add .
+git status
+git branch -a
+git branch master 
+git branch test master 
+git checkout master 
+git commit -m "masterに変更"
+git log
+git remote --help
+git remote -v
+git push origin master 
