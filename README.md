@@ -1,2 +1,2 @@
 # Default-repo
-deafault
+作り直したデフォルトレポジトリだよ
